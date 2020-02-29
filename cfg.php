@@ -1,0 +1,4 @@
+<?php
+
+$data = '{"index":"adcolony_android","environment":"Production","version":"4.1.3","logs":[{"appVersion":"3.56","appName":"com.sky.sea.cashzine","countryLocalShort":"ID","advertisingId":"b08ffed3-a1a0-45fe-b4cf-6f27f32c72e0","sessionId":"86440f1e-cc2c-4457-9d4e-accf0e90b4b4","countryLocale":"Indonesia (Indonesia)","platform":"android","appBuildNumber":356,"advertiserId":"b08ffed3-a1a0-45fe-b4cf-6f27f32c72e0","manufacturer":"samsung","zoneIds":["vz280b659d6fec416883"],"osVersion":"9","carrierName":"TELKOMSEL","appId":"app273be8a6bf1842b886","model":"SM-G390Y","sdkVersion":"4.1.3","networkType":"wifi","apiLevel":28,"controllerVersion":"2.3.2","environment":"Production","level":"Warn","message":"Controller : Ad request with invalid zone for zone ID: vz280b659d6fec416883","clientTimestamp":"20200229T191228.183+0700","mediation_network":"","mediation_network_version":"","plugin":"","plugin_version":"","batteryInfo":0.16}]}';
+
